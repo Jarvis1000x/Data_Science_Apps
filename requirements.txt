@@ -1,0 +1,4 @@
+matplotlib==3.4.2
+streamlit==0.87.0
+pandas==1.2.4
+yfinance==0.1.63
